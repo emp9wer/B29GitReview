@@ -1,4 +1,4 @@
-pachage utils;
+package utils;
 
 public class JavaUtils2{
  
